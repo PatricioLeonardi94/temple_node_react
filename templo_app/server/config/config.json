@@ -1,0 +1,27 @@
+{
+    "development": {
+      "username": "patri",
+      "password": "qwe123",
+      "database": "temploapp",
+      "host": "localhost",
+      "dialect": "postgres",
+      "port": "5433"
+    },
+    "test": {
+      "username": "patri",
+      "password": "qwe123",
+      "database": "temploapp",
+      "host": "localhost",
+      "dialect": "postgres",
+      "port": "5433"
+    },
+    "production": {
+      "username": "patri",
+      "password": "qwe123",
+      "database": "temploapp",
+      "host": "localhost",
+      "dialect": "postgres",
+      "port": "5433"
+    }
+  }
+  
